@@ -3,6 +3,8 @@
 
 Purple and white [i3] rice.
 
+---------------------------------
+
 Wallpapers and polybar
 ![Wallpapers and polybar](https://github.com/WaldLumen/wald-purple/blob/main/screnshoots/1.png)
 Firefox start page and theme
