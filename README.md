@@ -4,6 +4,8 @@
 Purple and white [i3] rice.
 
 
-![Ss1]()
+![Wallpapers and polybar](https://github.com/WaldLumen/wald-purple/blob/main/screnshoots/1.png)
 
-![Ss2]()
+![Firefox start page and theme](https://github.com/WaldLumen/wald-purple/blob/main/screnshoots/2.png)
+
+![Just cool screnshoot](https://github.com/WaldLumen/wald-purple/blob/main/screnshoots/3.png)
