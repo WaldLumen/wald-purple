@@ -21,13 +21,17 @@ Just cool screnshoot
 Dependencies:
 
 Alacritty
+
 Emacs()
+
 I3)
+
 Polybar
+
 Picom
+
 Rofi
+
 Zathura
+
 Zsh
-
-
-![](https://github.com/WaldLumen/wald-purple/blob/main/snake.png)
