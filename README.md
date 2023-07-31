@@ -22,13 +22,11 @@ Dependencies:
 
 Alacritty
 
-Emacs()
-
-I3)
+Picom
 
 Polybar
 
-Picom
+pywal
 
 Rofi
 
