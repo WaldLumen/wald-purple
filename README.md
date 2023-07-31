@@ -33,3 +33,5 @@ Rofi
 Zathura
 
 Zsh
+
+JetBrains Mono font
