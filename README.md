@@ -19,19 +19,42 @@ Just cool screnshoot
 ---------------------------------
 
 Dependencies:
+```
+sudo pacman -S alacritty picom polybar rofi zathura zsh python-pywal ttf-jetbrains-mono alsa-utils flameshot
+```
+---------------------------------
 
-Alacritty
+Installing
+```
+git clone https://github.com/WaldLumen/wald-purple.git $HOME/Downloads/wald-purple
+cp -r $HOME/Downloads/wald-purple/wald-purple/* $HOME/.config 
+```
+---------------------------------
 
-Picom
+Keybindings:
+```
+Win+q - kill window
+Win+f - fullscren toggle
+Win+r - resize mode(works on arrows)
 
-Polybar
+Win+Shift+r restart i3
 
-pywal
+Win+j focus left
+Win+k focus down
+Win+l focus up
+Win+semicolon focus right
 
-Rofi
+Win+Shift+j move left
+Win+Shift+k move down
+Win+Shift+l move up
+Win+Shift+semicolon move right
 
-Zathura
+Win+F8 - -5% volume
+Win+F9 - +5% volume
 
-Zsh
-
-JetBrains Mono font
+Win+d - rofi
+Win+p - flameshot
+Win+e - emacs
+Win+shift+f - firefox
+Win+return - alacritty
+```
