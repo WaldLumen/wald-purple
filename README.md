@@ -33,6 +33,7 @@ cp -r $HOME/Downloads/wald-purple/wald-purple/* $HOME/.config
 
 Keybindings:
 ```
+Mouse+$mod to drag floating windows to their wanted position
 Win+q - kill window
 Win+f - fullscren toggle
 Win+r - resize mode(works on arrows)
